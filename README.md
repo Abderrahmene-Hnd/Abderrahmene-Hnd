@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Abderrahmene HENDI !  
+# Hey 👋, I'm Abderrahmene HENDI !  
   
 <a href="https://github.com/Abderrahmene-Hnd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here!  
+## Glad to see you here!  
 ### I'm a dedicated Full-Stack Web Developer from Oran, Algeria 🌍, with expertise in the TALL stack (Tailwind CSS, Alpine.js, Livewire, and Laravel) 💻.
 
 - 💡 Passionate about clean code, elegant design, and efficient solutions, I strive to create user-friendly and scalable applications.
