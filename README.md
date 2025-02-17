@@ -9,7 +9,7 @@
 </a>
 
 ### Glad to see you here!  
-I specialize in the **TALL stack** (Tailwind CSS, Alpine.js, Livewire, and Laravel), building high-performance web applications that seamlessly integrate frontend and backend technologies.
+I'm a dedicated Full-Stack Web Developer from Oran, Algeria 🌍, with expertise in the TALL stack (Tailwind CSS, Alpine.js, Livewire, and Laravel) 💻.
 
 - 💡 Passionate about clean code, elegant design, and efficient solutions, I strive to create user-friendly and scalable applications.
 - 🌱 I'm constantly learning and experimenting with new technologies to stay updated with the latest trends and advancements in the web development landscape.
