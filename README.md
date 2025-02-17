@@ -9,12 +9,12 @@
 </a>
 
 ### Glad to see you here!  
-I'm a dedicated Full-Stack Web Developer from Oran, Algeria 🌍, with expertise in the TALL stack (Tailwind CSS, Alpine.js, Livewire, and Laravel) 💻.
+## I'm a dedicated Full-Stack Web Developer from Oran, Algeria 🌍, with expertise in the TALL stack (Tailwind CSS, Alpine.js, Livewire, and Laravel) 💻.
 
 - 💡 Passionate about clean code, elegant design, and efficient solutions, I strive to create user-friendly and scalable applications.
 - 🌱 I'm constantly learning and experimenting with new technologies to stay updated with the latest trends and advancements in the web development landscape.
 - 💬 Ask me about anything related to web development, software architecture, or the technologies I work with! I'm always happy to share knowledge and insights.
-- 📫 Feel free to reach out to me via [email](mailto:abderrahmenhendi@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/youcef-nezrek-7685a61a6) if you'd like to discuss potential collaborations or just chat about technology and coding.
+- 📫 Feel free to reach out to me via [email](mailto:abderrahmenhendi@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/abderrahmene-hendi-378b48220) if you'd like to discuss potential collaborations or just chat about technology and coding.
 
 ## Languages and Tools  
 <div align="center">  
